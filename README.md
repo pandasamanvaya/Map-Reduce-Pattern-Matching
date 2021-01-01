@@ -15,4 +15,4 @@ This project implements the Quick-Search algorithm for pattern matching on large
 
 ### Plots
 ![alt text](Execution_time.png "Execution time")
-![alt text]("Chunk_size.png" "Chunk size")
+![alt text](Chunk_size.png "Chunk size")
