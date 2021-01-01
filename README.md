@@ -12,3 +12,7 @@ This project implements the Quick-Search algorithm for pattern matching on large
 * For normal setting:-
     * Run `javac NavieSearch.java` and `java NavieSearch sample_temp.txt key_temp.txt` for Navie search
     * Run `javac QuickSearch.java` and `java QuickSearch sample_temp.txt key_temp.txt` for Quick-Search
+
+### Plots
+* ![alt text](Execution_time.png "Execution time")
+* ![alt text]("Chunk_time.png" "Chunk size")
